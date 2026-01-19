@@ -37,7 +37,7 @@ in
     themePackages = [ themeable-nix-flake ];
     theme = cfg.themeable-nix-flake.theme;
   };
-  config.systemd.services.plymouth-quit = lib.mkIf (cfg.themeable-nix-flake.enable && cfg.themable-nix-flake.duration > 0.0) {
+  config.systemd.services.plymouth-quit = lib.mkIf (cfg.themeable-nix-flake.enable && cfg.themeable-nix-flake.duration > 0.0) {
     preStart = "${pkgs.coreutils}/bin/sleep ${toString config.themeable-nix-flake.duration}";
   };
 }
