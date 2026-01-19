@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+for i in {0..48};
+do
+  rsvg-convert "$i".svg > ../themeable_nix_flake/"$i".png
+done

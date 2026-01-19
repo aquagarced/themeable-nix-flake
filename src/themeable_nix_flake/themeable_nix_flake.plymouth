@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=themeable_nix_flake
+Description=Displays a themeable growing & shrinking NixOS Logo
+Comment=Created by Aqua Garced
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/themeable_nix_flake
+ScriptFile=/usr/share/plymouth/themes/load_unload/themeable_nix_flake.script

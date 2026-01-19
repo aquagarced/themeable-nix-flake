@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.5 -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="960" height="622">
+<path d="M0,0 L2,0 L10,13 L16,24 L29,47 L43,71 L58,97 L72,121 L82,138 L82,141 L-41,141 L-50,126 L-61,107 L-55,95 L-45,78 L-30,52 L-18,31 L-5,9 Z " fill="#9B59D0" transform="translate(440,308)"/>
+<path d="M0,0 L41,0 L52,20 L62,37 L76,61 L89,84 L96,95 L102,107 L-61,107 L-59,102 L-49,84 L-35,60 L-22,37 L-11,18 Z " fill="#9B59D0" transform="translate(399,153)"/>
+<path d="M0,0 L2,0 L8,10 L14,21 L26,41 L32,52 L47,78 L59,99 L63,106 L58,115 L47,134 L43,140 L-80,140 L-78,135 L-72,124 L-57,98 L-43,74 L-35,60 L-26,45 L-20,34 L-5,8 Z " fill="#9B59D0" transform="translate(593,195)"/>
+<path d="M0,0 L162,0 L160,5 L149,25 L142,36 L136,47 L124,68 L112,89 L102,106 L100,107 L62,107 L59,104 L49,86 L35,62 L19,34 L13,24 L0,1 Z " fill="#57148D" transform="translate(469,342)"/>
+<path d="M0,0 L123,0 L133,16 L143,34 L137,45 L126,65 L116,82 L100,110 L86,134 L82,141 L79,138 L67,117 L60,106 L54,95 L43,76 L37,65 L30,54 L24,43 L12,22 L0,1 Z " fill="#57148D" transform="translate(447,153)"/>
+<path d="M0,0 L123,0 L121,5 L110,25 L100,42 L92,56 L77,81 L71,92 L58,115 L43,140 L40,137 L32,123 L18,99 L4,74 L-6,57 L-19,35 L-17,30 L-7,12 Z " fill="#57148D" transform="translate(333,267)"/>
+</svg>
